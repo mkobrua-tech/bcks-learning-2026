@@ -1,0 +1,9 @@
+{
+  "name": "BCKS Learning & Simulation 2026",
+  "short_name": "BCKS 2026",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f3f5",
+  "theme_color": "#536878",
+  "description": "Aplikasi latihan Seleksi Substansi BCKS 2026"
+}
